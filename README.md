@@ -1,9 +1,6 @@
 # AdivinaPalabra
 
-Introduccion a la programacion Mezcla Palabras
-May 7, 2015
-Introduccion
-El trabajo consiste en implementar un juego para ordenar palabras, cuyo objetivo es adivinar la palabra cuyas letras que aparecen mezcladas en la pantalla. Gran parte del juego ya esta hecha, solamente falta implementar las funcionalidades mas importantes.
+proyecto 2015 consiste en implementar un juego para ordenar palabras, cuyo objetivo es adivinar la palabra cuyas letras que aparecen mezcladas en la pantalla. Gran parte del juego ya esta hecha, solamente falta implementar las funcionalidades mas importantes.
 1 El Juego de las palabras
 Reglas del Juego
 Se juega de a un jugador, que cuenta con 60 segundos para adivinar la palabra desordenada que esta´ en pantalla. El jugador debe escribir la palabra en pantalla y si la palabra es la correcta en castellano, se deben sumar puntos al jugador y aparece una nueva palabra. Si es incorrecta la palabra, el jugador pierde una vida (intentos fallidos) de un total de cinco. Cada 10 segundos aparece una letra de la palabra en el orden correcto como ayuda.
